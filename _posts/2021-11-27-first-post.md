@@ -9,7 +9,9 @@ Howdy and welcome to my blog for all things related to software development and 
 
 <br><br>
 
-<img src="https://i.giphy.com/media/MgRKCBGvlpqTENUzWk/giphy.webp" alt="jimmy fallon hurry up gif" >
+<div style="display:flex;">
+<img src="https://i.giphy.com/media/MgRKCBGvlpqTENUzWk/giphy.webp" alt="jimmy fallon hurry up gif" style="width:70%;text-align:center;margin:auto;"/>
+</div>
 
 <br><br>
 
@@ -21,4 +23,6 @@ If you want to learn more about me, consider visiting my personal website [here]
 
 <br><br>
 
-<img src="https://i.giphy.com/media/3o6Mb4iDo3ne2U3M0o/giphy.webp" alt="simpsons good bye gif" >
+<div style="display:flex;">
+<img src="https://i.giphy.com/media/3o6Mb4iDo3ne2U3M0o/giphy.webp" alt="jimmy fallon hurry up gif" style="width:70%;text-align:center;margin:auto;"/>
+</div>
