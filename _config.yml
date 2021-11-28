@@ -61,13 +61,13 @@ tag_page_layout: tag_page
 tag_page_dir: tag
 
 dash:
+  avatar_source: github
+  github_username: zachschickler
   date_format: "%b %-d, %Y"
 
-layout: default
-comments: true
-
-disqus:
-  shortname: schickler
+dash:
+  disqus:
+    shortname: schickler
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
