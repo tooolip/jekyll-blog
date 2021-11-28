@@ -66,8 +66,8 @@ dash:
 layout: default
 comments: true
 
-  disqus:
-    shortname: schickler
+disqus:
+  shortname: schickler
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
