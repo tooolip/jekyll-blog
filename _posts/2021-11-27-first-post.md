@@ -15,7 +15,7 @@ Howdy and welcome to my blog for all things related to software development and 
 
 <br><br>
 
-To give you a basic roadmap, my next upcoming project is a programming language built in Rust with syntax similar to Lua. I plan to release standard libraries for the language after its release. Once that goes public, I'll scale down my work on it to resume work on a game I've been developing using the LÖVE framework. After that's published on my [itch.io](https://aspenmakesgames.itch.io/), who knows.
+To give you a basic roadmap, my next upcoming project is a programming language built in Rust with syntax similar to Lua. I plan to release standard libraries for the language after its release. Once that goes public, I'll scale down my work on it to resume work on a game I've been developing using the [Bevy framework](https://bevyengine.org/). After that's published on my [itch.io](https://aspenmakesgames.itch.io/), who knows.
 
 > Keep in mind, I am finishing college and transitioning to a job at this time, so please take that into consideration when calculating this vague timeline of progress in your head. 😵
 
